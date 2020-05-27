@@ -8,4 +8,12 @@ downstream Nitya change
 upstream changes
 >>>>>>> 6202b922bc778e9b85bff97b72ad2c64c70fb6b0
 
+<<<<<<< HEAD
 downstream another addition
+<<<<<<< Updated upstream
+=======
+another addition
+>>>>>>> 041b5e306b26f7402318b735113d5638662462c9
+=======
+change
+>>>>>>> Stashed changes
